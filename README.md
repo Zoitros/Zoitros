@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zoitros
 - 👀 I’m interested in computers, Windows, Linux and some toolkit utilities.
-- 🌱 I’m currently learning ..., well with the help of AI.
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ESP32 programming and other IoT projects.
 - 📫 How to reach me: @genx88 on facebook and messennger.
 - 😄 Pronouns: This is unnecessary. I was God design. Let's not changes the true meaning of this word and come up with an idea of moral decay.
