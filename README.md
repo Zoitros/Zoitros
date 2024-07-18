@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zoitros
-- 👀 I’m interested in computers, Windows, Linux and some toolkit utilities.
+- 👀 I’m interested in everything.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ESP32 programming and other IoT projects.
 - 📫 How to reach me: @genx88 on facebook and messennger.
