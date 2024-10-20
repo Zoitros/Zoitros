@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zoitros
-- 👀 I’m interested in everything.
+- 👀 I’m interested in IoT.
 - 🌱 I’m currently learning ...
-- 📫 How to reach me: @genx88 on facebook and messennger.
+- 📫 How to reach me: zoitros@hotmail.com
 - 😄 Pronouns: This is unnecessary. I was God design. Let's not changes the true meaning of this word and come up with an idea of moral decay.
 - ⚡ Fun fact: I did'nt have a degree in programming. I am actually a Marine Engineer.
 
